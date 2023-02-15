@@ -55,13 +55,13 @@ nav a {
   font-weight: 700;
 }
 
-nav a :hover,
-nav a:focus {
+.Social a :hover,
+a:active {
   background-color: blue;
 }
 
-.Social a :hover,
-a:active {
+nav a :hover,
+nav a:focus {
   background-color: blue;
 }
 
