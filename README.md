@@ -24,7 +24,7 @@
 - [📝 License](#license)
 
 # 📖<a name="Portfolio Mobile First"></a>
-Portfolio-Mobile-Finish project that use different elements like Html,Css,Git and Github without additional coding.
+Portfolio-Mobile-First project that use different elements like Html,Css,Git and Github without additional coding.
 
 ## 🛠 Built With 
 Html Css 
