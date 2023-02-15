@@ -55,11 +55,6 @@ nav a {
   font-weight: 700;
 }
 
-.Social a :hover,
-a:active {
-  background-color: blue;
-}
-
 nav a :hover,
 nav a:focus {
   background-color: blue;
