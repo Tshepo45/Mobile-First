@@ -27,9 +27,10 @@ body {
   max-width: 620px;
 }
 
-Toolbar {
+.Toolbar {
   align-items: center;
-  padding: 20px;
+  padding: 15px;
+  
 }
 
 nav ul {
