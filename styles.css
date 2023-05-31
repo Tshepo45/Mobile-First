@@ -55,11 +55,6 @@ nav a {
   padding-right: 10rem;
 }
 
-nav a :hover,
-nav a:focus {
-  background-color: blue;
-}
-
 h1 {
   padding-top: 65px;
   font-family: 'Poppings', sans-serif;
