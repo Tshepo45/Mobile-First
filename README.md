@@ -61,7 +61,7 @@ git clone https://github.com/Tshepo45/Mobile-First.git
 - LinkedIn: [tshepo45](https://linkedin.com/in/linkedinhandle)
 
 ## future-features
-The template to include feedback forms and customizable button and icons.
+The template to include mobile finish portfolio and customizable button and icons.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
